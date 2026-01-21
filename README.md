@@ -10,44 +10,6 @@ The goal of this repository is to build **strong problem-solving skills**, impro
 
 ---
 
-## 📂 Repository Structure
-
-DSA/
-├── C++/
-│ ├── Arrays/
-│ ├── Strings/
-│ ├── LinkedList/
-│ ├── Stack/
-│ ├── Queue/
-│ ├── Trees/
-│ ├── Graphs/
-│ ├── Recursion/
-│ └── DynamicProgramming/
-│
-├── Python/
-│ ├── Arrays/
-│ ├── Strings/
-│ ├── LinkedList/
-│ ├── Stack/
-│ ├── Queue/
-│ ├── Trees/
-│ ├── Graphs/
-│ ├── Recursion/
-│ └── DynamicProgramming/
-│
-├── JavaScript/
-│ ├── Arrays/
-│ ├── Strings/
-│ ├── LinkedList/
-│ ├── Stack/
-│ ├── Queue/
-│ ├── Trees/
-│ ├── Graphs/
-│ ├── Recursion/
-│ └── DynamicProgramming/
-
----
-
 ## 🧠 Topics Covered
 
 - Arrays & Strings  
