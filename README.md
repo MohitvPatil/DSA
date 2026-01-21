@@ -1,123 +1,114 @@
-📚 Data Structures & Algorithms Practice Repository
+# 📚 Data Structures & Algorithms Practice Repository
 
-This repository contains my Data Structures and Algorithms (DSA) implementations and problem-solving practice in:
+This repository contains my **Data Structures and Algorithms (DSA)** implementations and problem-solving practice in:
 
-C++
+- **C++**
+- **JavaScript**
+- **Python**
 
-JavaScript
+The goal of this repository is to build **strong problem-solving skills**, improve **coding efficiency**, and maintain a **well-structured reference** for interview preparation and competitive programming.
 
-Python
+---
 
-The goal of this repository is to build strong problem-solving skills, improve coding efficiency, and maintain a well-structured reference for interview preparation and competitive programming.
+## 📂 Repository Structure
 
-📂 Repository Structure
 DSA/
 ├── C++/
-│   ├── Arrays/
-│   ├── Strings/
-│   ├── LinkedList/
-│   ├── Stack/
-│   ├── Queue/
-│   ├── Trees/
-│   ├── Graphs/
-│   ├── Recursion/
-│   └── DynamicProgramming/
+│ ├── Arrays/
+│ ├── Strings/
+│ ├── LinkedList/
+│ ├── Stack/
+│ ├── Queue/
+│ ├── Trees/
+│ ├── Graphs/
+│ ├── Recursion/
+│ └── DynamicProgramming/
 │
 ├── Python/
-│   ├── Arrays/
-│   ├── Strings/
-│   ├── LinkedList/
-│   ├── Stack/
-│   ├── Queue/
-│   ├── Trees/
-│   ├── Graphs/
-│   ├── Recursion/
-│   └── DynamicProgramming/
+│ ├── Arrays/
+│ ├── Strings/
+│ ├── LinkedList/
+│ ├── Stack/
+│ ├── Queue/
+│ ├── Trees/
+│ ├── Graphs/
+│ ├── Recursion/
+│ └── DynamicProgramming/
 │
 ├── JavaScript/
-│   ├── Arrays/
-│   ├── Strings/
-│   ├── LinkedList/
-│   ├── Stack/
-│   ├── Queue/
-│   ├── Trees/
-│   ├── Graphs/
-│   ├── Recursion/
-│   └── DynamicProgramming/
+│ ├── Arrays/
+│ ├── Strings/
+│ ├── LinkedList/
+│ ├── Stack/
+│ ├── Queue/
+│ ├── Trees/
+│ ├── Graphs/
+│ ├── Recursion/
+│ └── DynamicProgramming/
 
-🧠 Topics Covered
+---
 
-Arrays & Strings
+## 🧠 Topics Covered
 
-Searching & Sorting
+- Arrays & Strings  
+- Searching & Sorting  
+- Recursion & Backtracking  
+- Linked List  
+- Stack & Queue  
+- Trees & Binary Search Trees  
+- Heaps & Priority Queue  
+- Graphs  
+- Hashing  
+- Greedy Algorithms  
+- Dynamic Programming  
 
-Recursion & Backtracking
+---
 
-Linked List
+## 🎯 Purpose of This Repository
 
-Stack & Queue
+- Build **strong DSA fundamentals**
+- Prepare for **product-based company interviews**
+- Improve **logic, performance, and code quality**
+- Maintain **multi-language implementations** of the same concepts
+- Serve as a **quick revision handbook**
 
-Trees & Binary Search Trees
+---
 
-Heaps & Priority Queue
+## 🛠 How to Use
 
-Graphs
+- Pick a language folder (C++ / Python / JavaScript)
+- Navigate to the topic you want
+- Each file contains **clean and understandable implementations**
+- Use it for:
+  - Interview prep
+  - Concept revision
+  - Practice & reference
 
-Hashing
+---
 
-Greedy Algorithms
+## 🚀 Languages Used
 
-Dynamic Programming
+- C++
+- Python
+- JavaScript
 
-🎯 Purpose of This Repository
+---
 
-Build strong DSA fundamentals
-
-Prepare for product-based company interviews
-
-Improve logic, performance, and code quality
-
-Maintain multi-language implementations of the same concepts
-
-Serve as a quick revision handbook
-
-🛠 How to Use
-
-Pick a language folder (C++ / Python / JavaScript)
-
-Navigate to the topic you want
-
-Each file contains clean and understandable implementations
-
-Use it for:
-
-Interview prep
-
-Concept revision
-
-Practice & reference
-
-🚀 Languages Used
-
-C++ (Performance & competitive programming)
-
-Python (Clarity & rapid problem solving)
-
-JavaScript (Logic + interview readiness)
-
-📈 Progress Strategy
+## 📈 Progress Strategy
 
 Problems are solved from:
+- Easy → Medium → Hard  
+- Concept-wise → Pattern-wise → Interview-level  
 
-Easy → Medium → Hard
+---
 
-Concept-wise → Pattern-wise → Interview-level
+## 🤝 Contributions
 
-🤝 Contributions
+This is a personal learning repository. Improvements and optimizations are welcome.
 
-This is a personal learning repository, but improvements and optimizations are always welcome.
+---
 
-👨‍💻 Author
+## 👨‍💻 Author
 
-Mohit Patil
+**Mohit Patil**  
 Software Developer | Full Stack | DSA | System Design
